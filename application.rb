@@ -1,3 +1,5 @@
+require_relative "./application.rb"
+
 class Application
 
   def call(env)
